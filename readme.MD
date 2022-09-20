@@ -13,6 +13,6 @@
 - [x] Criar array com os dois objetos necessarios para o layout
 - [x] Renderizar os produtos dentro da div App
 - [x] Estilizar e implementar de acordo com layout
-- [] Subir em uma infra
+- [x] Subir em uma infra
 
-<a href="" target="_blank">Link aqui:</a>
+<a href="https://b8one-challenger.vercel.app/" target="_blank">Link aqui:</a>
